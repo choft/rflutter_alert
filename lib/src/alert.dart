@@ -8,6 +8,8 @@
  */
 import 'package:flutter/material.dart';
 
+import 'dart:async';
+
 import 'alert_style.dart';
 import 'animation_transition.dart';
 import 'constants.dart';
